@@ -13,7 +13,7 @@ LLMs confidently fabricate plausible-looking citations. Running a paper draft th
 ## Install
 
 ```bash
-git clone https://github.com/WhenMelancholy/verify-bib-skill.git
+git clone https://github.com/mufanq/verify-bib-skill.git
 cd verify-bib-skill
 pip install -r requirements.txt
 ```
