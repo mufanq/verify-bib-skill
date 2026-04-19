@@ -1,0 +1,30 @@
+# Secrets — never commit API keys
+.env
+.env.*
+*.key
+secrets.json
+credentials.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+
+# Local cache (per-user)
+.cache/
+*.sqlite
+*.sqlite-journal
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp

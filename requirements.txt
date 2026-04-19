@@ -1,0 +1,3 @@
+httpx>=0.27
+pybtex>=0.24
+rapidfuzz>=3.9
